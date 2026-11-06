@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mia Fotocamera</string>
+    <string name="scatta_foto">Scatta foto</string>
+    <string name="cambia_camera">Cambia camera</string>
+    <string name="flash">Flash</string>
+    <string name="ultima_foto">Ultima foto</string>
+</resources>
